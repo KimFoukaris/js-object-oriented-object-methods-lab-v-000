@@ -5,4 +5,4 @@ function BoardMember (name, homeState, training) {
   this.veto = function() {
     return const reply = "No, I must diagree";
   };
-}
+};
